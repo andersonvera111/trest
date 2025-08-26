@@ -1,1 +1,1 @@
-Naming variables is harder than coding.An infinite loop is a programmer’s worst nightmare.testttttttt
+Syntax matters. Ask anyone who’s used Python.Naming variables is harder than coding.An infinite loop is a programmer’s worst nightmare.testttttttt
