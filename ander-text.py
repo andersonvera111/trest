@@ -1,1 +1,1 @@
-Syntax matters. Ask anyone who’s used Python.Naming variables is harder than coding.An infinite loop is a programmer’s worst nightmare.testttttttt
+Whitespace matters.Syntax matters. Ask anyone who’s used Python.Naming variables is harder than coding.An infinite loop is a programmer’s worst nightmare.testttttttt
