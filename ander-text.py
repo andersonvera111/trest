@@ -1,1 +1,1 @@
-Don’t repeat yourself (DRY).Code without purpose is just wasted keystrokes.Whitespace matters.Syntax matters. Ask anyone who’s used Python.Naming variables is harder than coding.An infinite loop is a programmer’s worst nightmare.testttttttt
+Pushing to production on a Friday should be illegal.Don’t repeat yourself (DRY).Code without purpose is just wasted keystrokes.Whitespace matters.Syntax matters. Ask anyone who’s used Python.Naming variables is harder than coding.An infinite loop is a programmer’s worst nightmare.testttttttt
